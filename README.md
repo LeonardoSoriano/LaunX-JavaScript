@@ -23,7 +23,7 @@ En el siguiente programa ***"IntroHTML*** usamos el siguiente codigo para poder 
 
 <script src="./IntroduccionJavaScript.js"></script>
 
-![Enlace intro Html a JavaScript](Imagenes\enlaceaJava.jpg)
+![Enlace intro Html a JavaScript](Imagenes/introduccionJava.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
