@@ -23,7 +23,7 @@ En el siguiente programa ***"IntroHTML*** usamos el siguiente codigo para poder 
 
 <script src="./IntroduccionJavaScript.js"></script>
 
-![Enlace intro Html a JavaScript](Imagenes\enlaceaJava.jpg)
+![Enlace intro Html a JavaScript](Imagenes\introduccionJava.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -31,6 +31,6 @@ En el siguiente programa ***"IntroHTML*** usamos el siguiente codigo para poder 
 
 En el siguiente programa ***"FuncionesHTML*** usamos el siguiente codigo para poder enlazar el programa de **HTML** al programa que tenemos de **JavaScript** que en este caso sera ***"FuncionesDeJavaScript"*** .
 
-![Enlace Funciones Html a JavaScript](Imagenes/FuncionesJavaScript.jpg)
+![Enlace Funciones Html a JavaScript](Imagenes\FuncionesJavaScript.jpg)
 
 ---------------------------------------------------------------------------------
